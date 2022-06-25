@@ -20,73 +20,73 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "新手速成手册"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "关于"
     url: /about/
-  - title: "Sample Posts"
+  - title: "博客范例"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "专题范例"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "术语 &amp; 隐私策略"
     url: /terms/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: 新手入门
     children:
-      - title: "Quick-Start Guide"
+      - title: "新手速成手册"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "架构"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "安装"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "升级"
         url: /docs/upgrading/
   - title: Customization
     children:
-      - title: "Configuration"
+      - title: "配置"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "覆盖主题默认选项"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "导航"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "UI 文字"
         url: /docs/ui-text/
-      - title: "Authors"
+      - title: "作者"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "布局"
         url: /docs/layouts/
   - title: Content
     children:
-      - title: "Working with Posts"
+      - title: "使用帖子"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "使用页面"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "使用专题"
         url: /docs/collections/
-      - title: "Helpers"
+      - title: "帮助"
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
   - title: Extras
     children:
-      - title: "Stylesheets"
+      - title: "样式表"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "JavaScript 脚本"
         url: /docs/javascript/
   - title: Meta
     children:
-      - title: "History"
+      - title: "历史"
         url: /docs/history/
-      - title: "Contributing"
+      - title: "参与"
         url: /docs/contributing/
-      - title: "Old 2.2 Docs"
+      - title: "旧的 2.2 版本文档"
         url: /docs/docs-2-2/
-      - title: "License"
+      - title: "许可协议"
         url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
+      - title: "术语 &amp; 隐私政策"
         url: /terms/
 
 # sidebar navigation list sample
